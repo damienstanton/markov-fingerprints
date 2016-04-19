@@ -25,3 +25,5 @@ _testmain.go
 
 # Twitter API credentials
 auth.json
+
+*.DS_Store

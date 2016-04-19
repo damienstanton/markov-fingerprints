@@ -1,0 +1,72 @@
+Digital Fingerprints
+Some ways you are recognized online that you might not know about
+
+Damien Stanton
+Founder and CEO, Blink Analytics
+
+@damienstanton
+damien@blinkanalytics.com
+
+* About my company
+.image images/logo.png
+
+- We focus on search engines and business intelligence apps.
+- As we get huge amounts of data to work with, we need to focus on machine learning and big data.
+- Security is a concern at all levels when building applications
+
+I've found some interesting ways in which people are tracked online.
+
+* So how do you get identified online?
+
+Traditionally:
+
+- Clicks
+- Ads
+- Cookies
+
+We're most familiar with these concepts, and they've been around for ~ 15 years.
+
+* This is changing.
+
+New methods:
+
+- Canvas Fingerprinting
+- Natural Language Processing
+- Device Fingerprinting
+
+* Canvas Fingerprinting
+- HTML5 (released in 2014) includes the _canvas_ element which allows web apps to render graphics directly in your browser.
+
+This is one of the reasons modern web apps look and feel almost as nice as native apps on your phone or computer.
+
+- [[https://win95.ajf.me/win95.html][It is pretty amazing how far this technology has come in ten years.]] [[http://copy.sh/v86/?profile=windows98][(backup link)]]
+- Good thing, right? [[https://www.browserleaks.com/canvas][Mostly.]]
+- Canvas fingerprinting can be employed without your knowledge or consent.
+- Usually used by advertisers and security companies.
+
+* Natural Language Processing
+- A branch of machine learning.
+- Uses statistics to assign _meaning_ to text.
+.image images/nlp_tree.png
+
+Let's see a small demo using Twitter
+
+* Coincidentally, a real-world example
+.image images/tweetbot.png
+
+
+* Device Fingerprinting
+- All networked devices (from light bulbs to your phone to your computer to your Tesla Model S) have unique identifiers.
+- Usually used in combination with other tracking methods.
+
+Let's see a demo on the phone
+
+* So what does this mean?
+- Almost everybody that is online has a rich set of _fingerprints_ that, when taken together, can identify us pretty well.
+- This is big business for advertisers: the better they can get at uniquely identifying you, the better their market segments are.
+- Hackers and state-organizations can and do use this information for exploitation, and this sort of metadata has even been used to assess drone targeting.
+
+* How do we keep control of our own information, then?
+- There are secure web browsers and tools to make it harder to track (like Tor).
+- Usually if you're careful to _curate_ and _secure_ your online presence, fingerprinting has less of a negative.
+- It's easy to forget that posting to the public web -including social media- is like speaking to a crowd.
